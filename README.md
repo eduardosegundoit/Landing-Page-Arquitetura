@@ -30,4 +30,5 @@ Tecnologia (HTML,CSS,JAVASCRIPT,FIGMA)
 __________________________________________________________________________________________
 
 Mailing List: https://docs.google.com/spreadsheets/d/1R-h8yari-lf_AH0Sr9SfXaZb2OvdmIVEjqUhBwjiuJ4/edit#gid=0
+
 WebSite: landingpagearquitetura2024.netlify.app
